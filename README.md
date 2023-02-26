@@ -6,7 +6,7 @@
 - 💻 Visual Studio Code
 - 💻 Visual Studio 2022
 - 🔐 IDA Pro 7.7
-- 🔐 DnSpy v6.1.8
+- 🔐 dnSpy *v6.1.8*
 - 🔐 Cheat Engine
 
 
