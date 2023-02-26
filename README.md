@@ -9,9 +9,5 @@
 - DnSpy v6.1.8
 - Cheat Engine
 
-## Goals
-- 🧠 Artificial intelligence
-- 🤖 Robots
-
 
 [![](https://visitcount.itsvg.in/api?id=Retinalogic&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
