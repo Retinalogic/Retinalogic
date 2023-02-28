@@ -1,5 +1,5 @@
 ## Current Projects
-- ☕🐼 LattePanda - Splatoon 1 Hacking Tool.
+- 🐼☕ LattePanda - Splatoon 1 Hacking Tool.
 > https://lattepanda.000webhostapp.com
 
 ## Tools
